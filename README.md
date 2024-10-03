@@ -5,3 +5,4 @@
 ## 作業繳交區
 ### HW1
 [Hw1網頁](https://ethanlin1126.github.io/ethanlin1126.github.io-webpage/)
+[HW1程式碼](https://github.com/ethanlin1126/Web/tree/main/HW1)
