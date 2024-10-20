@@ -14,5 +14,5 @@
 [Hw1網頁](https://ethanlin1126.github.io/ethanlin1126.github.io-webpage/)<br>
 [HW1程式碼](https://github.com/ethanlin1126/Web/tree/main/HW1)
 ### HW2
-[Hw2影片]([https://ethanlin1126.github.io/ethanlin1126.github.io-webpage/](https://youtu.be/qKUOlnmuqnA))<br>
-[HW2程式碼](https://github.com/ethanlin1126/Web/tree/main/HW1)
+[Hw2影片](https://youtu.be/qKUOlnmuqnA)<br>
+[HW2程式碼](https://github.com/ethanlin1126/Web/tree/main/HW2)
