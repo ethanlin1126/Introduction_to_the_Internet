@@ -1,0 +1,78 @@
+/* src/App.css */
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 20px;
+}
+
+.app {
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+  background: white;
+  border-radius: 5px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  text-align: center;
+}
+
+.order-form {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+.order-form input {
+  padding: 10px;
+  margin: 5px 0;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.order-form button {
+  padding: 10px;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.order-form button:hover {
+  background-color: #218838;
+}
+
+.order-list {
+  margin-top: 20px;
+}
+
+.order-item {
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  margin-bottom: 10px;
+  background: #f9f9f9;
+}
+
+.order-item h3 {
+  margin: 0 0 5px 0;
+}
+
+.order-item p {
+  margin: 3px 0;
+}
+/* src/App.css */
+
+/* src/App.css */
+
+.total-amount {
+  font-size: 1.5em;
+  color: #28a745;
+  text-align: center;
+  margin-top: 20px;
+}
+
