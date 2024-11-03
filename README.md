@@ -11,8 +11,11 @@
 [Week8 React](https://docs.google.com/presentation/d/18S3EQQoZNHnC6Eop4c-Z7tcOl3YXPLTO-9ouPweQXkY/edit#slide=id.p)<br>
 ## 作業繳交區
 ### HW1
-[Hw1網頁](https://ethanlin1126.github.io/ethanlin1126.github.io-webpage/)<br>
-[HW1程式碼](https://github.com/ethanlin1126/Web/tree/main/HW1)
+[Hw1_webpage](https://ethanlin1126.github.io/ethanlin1126.github.io-webpage/)<br>
+[HW1_Code](https://github.com/ethanlin1126/Web/tree/main/HW1)
 ### HW2
-[Hw2影片](https://youtu.be/qKUOlnmuqnA)<br>
-[HW2程式碼](https://github.com/ethanlin1126/Web/tree/main/HW2)
+[Hw2_Video](https://youtu.be/qKUOlnmuqnA)<br>
+[HW2_Code](https://github.com/ethanlin1126/Web/tree/main/HW2)
+### HW3
+[HW3_Video](https://youtu.be/VdLEzwquUj0)
+
