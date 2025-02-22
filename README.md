@@ -1,5 +1,5 @@
 # [2024 Fall] Introduction to the Internet<br>
-Lecturer：Assoc. Prof. Yun-Cheng Tsai<br>
+Lecturer：Yun-Cheng Tsai<br>
 ## Final Project
 Project Overview:<br>
 Using React.js, the project integrates Web APIs to create a web application for weather queries, currency conversion, and map searches. It also includes a calendar feature for planning travel itineraries, allowing users to easily access essential trip information.Finally, the web application is deployed to the cloud using Render.<br>
