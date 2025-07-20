@@ -6,6 +6,7 @@ A web-based International Travel Assistant built with React.js, offering helpful
 - [Features](#features)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
+- [Website](#website)
 
 ## Introduction
 This project is a multi-functional travel assistant designed to help users plan and navigate their trips with ease. It includes weather checking, currency exchange tools, a calendar for planning events, and an embedded map. Built entirely with React, it is deployed on Render for public access.
@@ -48,5 +49,5 @@ travel-assistant/
 │
 └── public/                     # Public folder for static assets and index.html
 ```
-[Code](https://github.com/ethanlin1126/Web/tree/main/Final%20Project)<br>
-[APP Website](https://web-main-172e.onrender.com/)<br>
+## Website
+[https://web-main-172e.onrender.com/](https://web-main-172e.onrender.com/)<br>
